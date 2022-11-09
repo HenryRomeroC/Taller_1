@@ -27,6 +27,12 @@ Estudiar los conceptos basicos de la eléctrica y electrónica por medio de la r
 ![Compare and Contrast End of Year Transition Worksheet](https://user-images.githubusercontent.com/116819100/200954808-e2980a65-c6f1-4d31-a13e-c61e42213526.png)
 ![Green Minimalist Process System Mind Map](https://user-images.githubusercontent.com/116819100/200954811-f0588ee3-44a0-4693-9250-07053a37d4dd.png)
 
+_------------------------------------------------------------------------------------------------------------------------------------------------------
+![1](https://user-images.githubusercontent.com/116819100/200960883-f70b5cca-09d7-4d8b-bc3f-d1e8529b36f4.png)
+![2](https://user-images.githubusercontent.com/116819100/200960886-f2833b28-bcd4-4181-87fe-69e4f5a3665a.png)
+![3](https://user-images.githubusercontent.com/116819100/200960889-c6b38f49-20f5-4167-9cc6-675bce06b1f4.png)
+
+
 
 
 
