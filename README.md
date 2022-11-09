@@ -1,6 +1,3 @@
-![5](https://user-images.githubusercontent.com/116819100/200964222-b869899c-8ddc-4f97-92db-8c0207171714.png)
-![5](https://user-images.githubusercontent.com/116819100/200964169-b6cc4be7-108f-42e0-8044-6fc34975230f.png)
-![6](https://user-images.githubusercontent.com/116819100/200964172-aa181683-ad21-4fbc-bb14-5b53116add40.png)
 "UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE"
 ---------------------------------------------------------------------------------------------
 
@@ -35,6 +32,9 @@ _-------------------------------------------------------------------------------
 ![2](https://user-images.githubusercontent.com/116819100/200960886-f2833b28-bcd4-4181-87fe-69e4f5a3665a.png)
 ![3](https://user-images.githubusercontent.com/116819100/200960889-c6b38f49-20f5-4167-9cc6-675bce06b1f4.png)
 ![4](https://user-images.githubusercontent.com/116819100/200962407-0c670894-8450-452a-b662-b22840ccb232.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![5](https://user-images.githubusercontent.com/116819100/200964300-f918ea27-7bc4-477b-b596-2f44737d7147.png)
 ![6](https://user-images.githubusercontent.com/116819100/200964319-fe45ba10-8a55-4ea8-b2c9-afccadf2c9a5.png)
 ![7](https://user-images.githubusercontent.com/116819100/200964344-ffd56073-e8bc-4ad3-8446-7c84c8b62e04.png)
