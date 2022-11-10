@@ -62,8 +62,7 @@ Estudiar los conceptos basicos de la eléctrica y electrónica por medio de la r
 **5.CONCLUCIONES**
 
 
-Gracias a las observaciones y resultados dados podemos definir que tanto como la notación cientifica y el desarrolo de circuitos la variedad de resistencias y sus funcionamientos hemos llegado a la conclusión que todas y cada una tiene un valor distinto haciendolas diferentes a las demas sobre todo los circuitos el voltaje es un gran complemento para el desarrolo e inovación de aparatos electronicos.
-
+Como conclusion final hemos llegado a que la notación cientifica y el desarrolo de circuitos la variedad de resistencias y sus funcionamientos cada una tiene un valor distinto haciendolas diferentes a las demas sobre todo los circuitos el voltaje es un gran complemento para el desarrolo e inovación de aparatos electronicos.
 -----------------------------------------------------------------
 
 **6.BIBLIOGRAFÍA**
