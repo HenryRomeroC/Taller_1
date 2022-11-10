@@ -61,8 +61,9 @@ Estudiar los conceptos basicos de la eléctrica y electrónica por medio de la r
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **5.CONCLUCIONES**
 
+Como conclusion final hemos llegado a que la notación cientifica y el desarrolo de circuitos la variedad de resistencias y sus funcionamientos cada una tiene un valor distinto haciendolas diferentes a las demas sobre todo los circuitos el voltaje es un gran complemento para el desarrolo e inovación de aparatos electronicos, con la finalidad de comprender los conceptos relacionados a la electrónica fundamental tales como el voltaje, corriente y resistencia se pudo observar de manera práctica la relación estre los 3 conceptos, permitiendo un análisis completo sobre sus aplicaciones al cálculo de circuitos electrónicos y como se desarrollan estos conceptos en un ambiente práctico aplicable a la ingeniería.
 
-Como conclusion final hemos llegado a que la notación cientifica y el desarrolo de circuitos la variedad de resistencias y sus funcionamientos cada una tiene un valor distinto haciendolas diferentes a las demas sobre todo los circuitos el voltaje es un gran complemento para el desarrolo e inovación de aparatos electronicos.
+
 -----------------------------------------------------------------
 
 **6.BIBLIOGRAFÍA**
